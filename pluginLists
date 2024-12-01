@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Witanime",
+        "url": "https://witanime.cyou/api/episodes",
+        "quality": ["1080p", "720p", "480p"],
+        "language": "Arabic",
+        "description": "موقع لمشاهدة الأنمي مترجم بالعربية"
+    },
+    {
+        "name": "Anime4Up",
+        "url": "https://anime4up.rest/api/episodes",
+        "quality": ["1080p", "720p", "480p"],
+        "language": "Arabic",
+        "description": "موقع يقدم الأنمي مترجم للعربية."
+    },
+    {
+        "name": "Xsaniime",
+        "url": "https://xsaniime.net/api/episodes",
+        "quality": ["1080p", "720p", "480p"],
+        "language": "Arabic",
+        "description": "موقع يقدم الأنمي مترجم باللغة العربية."
+    },
+    {
+        "name": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/fr/api/episodes",
+        "quality": ["1080p", "720p"],
+        "language": "Arabic, English",
+        "description": "منصة كبيرة لمتابعة الأنمي مع خيارات ترجمة متعددة."
+    },
+    {
+        "name": "Blkom",
+        "url": "https://blkom.com/api/episodes",
+        "quality": ["1080p", "720p", "480p"],
+        "language": "Arabic",
+        "description": "موقع آخر لمتابعة الأنمي مترجم للعربية."
+    },
+    {
+        "name": "Animerco",
+        "url": "https://web.animerco.org/api/episodes",
+        "quality": ["1080p", "720p"],
+        "language": "Arabic",
+        "description": "موقع يوفر الأنمي مترجم باللغة العربية."
+    },
+    {
+        "name": "Animhq",
+        "url": "https://animhq.com/api/episodes",
+        "quality": ["1080p", "720p", "480p"],
+        "language": "Arabic",
+        "description": "موقع ممتاز لمشاهدة الأنمي مترجم."
+    },
+    {
+        "name": "Animeslayer",
+        "url": "https://animeslayerweb.com/api/episodes",
+        "quality": ["1080p", "720p", "480p"],
+        "language": "Arabic",
+        "description": "موقع مشاهدة الأنمي مترجم للعربية."
+    }
+]
