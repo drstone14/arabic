@@ -3,6 +3,6 @@
     "description": "Cloudstream Arabic Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/drstone14/drsto/refs/heads/main/plugin-list.json"
+        "https://raw.githubusercontent.com/drstone14/arabic/refs/heads/main/plugin-list.json"
     ]
 }
