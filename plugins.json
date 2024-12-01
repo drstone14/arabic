@@ -1,0 +1,8 @@
+{
+    "name": "drsto",
+    "description": "Cloudstream Arabic Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/drstone14/drsto/refs/heads/main/plugin-list.json"
+    ]
+}
